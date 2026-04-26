@@ -1,9 +1,8 @@
-package com.justsomelazyfox.debugging;
+package com.foppykitty.debugging;
 
 import manifold.rt.api.util.Pair;
 
 import java.util.*;
-import java.util.function.Function;
 
 public class Logger extends Debugger {
 //    private static final Map<String, LoggingFunctionContainer> customLoggingFunctions = new HashMap<>();

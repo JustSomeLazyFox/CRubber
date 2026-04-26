@@ -1,4 +1,4 @@
-package com.justsomelazyfox.debugging;
+package com.foppykitty.debugging;
 
 public class Debugger {
     public static boolean isProduction = false;

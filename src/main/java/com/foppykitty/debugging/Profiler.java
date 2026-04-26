@@ -1,4 +1,4 @@
-package com.justsomelazyfox.debugging;
+package com.foppykitty.debugging;
 
 import java.util.ArrayList;
 import java.util.HashMap;
