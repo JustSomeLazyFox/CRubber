@@ -7,5 +7,10 @@ public class FopTailParser {
         this.tail = tail;
     }
 
+    public TailDetails parse() {
+        // TODO: ACTUALLY parse the tail
+        return null;
+    }
+
 
 }
