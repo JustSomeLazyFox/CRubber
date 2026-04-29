@@ -16,7 +16,7 @@ AddLanguage("<language1>")
 AddLanguage("<language2>")
 ...
 
-# main fild that crubber uses to get information about the libraries used
-mainFile("path/to/entry/from/project/root.ext")
+# main file that crubber uses to get information about the libraries used
+MainFile("path/to/entry/from/project/root.ext")
 
 ```
